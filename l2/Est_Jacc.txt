@@ -1,0 +1,16 @@
+Shingle size: 13	 n: 100
+Bible_1.txt	Bible_2.txt 	 0.0
+Bible_1.txt	Bible_3.txt 	 0.0
+Bible_1.txt	Alice.txt 	 0.0
+Bible_1.txt	Frankenstein.txt 	 0.0
+Bible_1.txt	A-Christmas-Carol.txt 	 0.0
+Bible_2.txt	Bible_3.txt 	 0.0
+Bible_2.txt	Alice.txt 	 0.0
+Bible_2.txt	Frankenstein.txt 	 0.0
+Bible_2.txt	A-Christmas-Carol.txt 	 0.0
+Bible_3.txt	Alice.txt 	 0.0
+Bible_3.txt	Frankenstein.txt 	 0.0
+Bible_3.txt	A-Christmas-Carol.txt 	 0.0
+Alice.txt	Frankenstein.txt 	 0.0
+Alice.txt	A-Christmas-Carol.txt 	 0.0
+Frankenstein.txt	A-Christmas-Carol.txt 	 0.0
